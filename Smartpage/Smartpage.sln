@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29709.97
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Smartpage", "Smartpage\Smartpage.csproj", "{A67E8AD8-EAA7-4C50-97FE-41B0DEC3ADFB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A67E8AD8-EAA7-4C50-97FE-41B0DEC3ADFB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A67E8AD8-EAA7-4C50-97FE-41B0DEC3ADFB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A67E8AD8-EAA7-4C50-97FE-41B0DEC3ADFB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A67E8AD8-EAA7-4C50-97FE-41B0DEC3ADFB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B5909A02-1088-4457-BF9A-3F4A4CB9DDDF}
+	EndGlobalSection
+EndGlobal
